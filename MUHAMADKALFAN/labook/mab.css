@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&family=Kablammo&family=Noto+Sans:ital,wght@0,100;1,100&family=Roboto+Condensed:ital,wght@0,700;1,700&display=swap');
+.h1{
+    text-align: center;
+    font-family: 'Kablammo', cursive;
+    color: rgba(0,0,0);
+    background-color: white;
+    
+   
+}
+.text1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rebeccapurple;
+    color: black;
+}
+.imag2{
+    height: 300px;
+    width: 100%;
+}
+.imag11{
+    width: 50%;
+    height: 100px;
+}
+.c22{
+    height: 200px;
+    width: 100%;
+}
+/*  
+ font-family: 'Inter', sans-serif;
+ font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;  */
